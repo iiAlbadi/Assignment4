@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://iialbadi.github.io/Assignment4/NationalParks.xsd">
 
-  <!-- Required Grand Canyon Entry -->
-  <Hotel Rating="4.9">
+  <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
     <Phone>888-297-2757</Phone>
@@ -14,12 +14,12 @@
       <State>AZ</State>
       <Zip>86023</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-  <!-- 10 Additional Entries  -->
-  <Hotel Rating="4.8">
+  <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
+    <Phone>877-444-6777</Phone>
     <Address NearestAirport="BZN">
       <Number>2</Number>
       <Street>Grand Loop Rd</Street>
@@ -27,9 +27,9 @@
       <State>WY</State>
       <Zip>82190</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-  <Hotel Rating="4.7">
+  <NationalPark Rating="4.7">
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
     <Address NearestAirport="FAT">
@@ -39,11 +39,12 @@
       <State>CA</State>
       <Zip>95389</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-  <Hotel Rating="4.9">
+  <NationalPark Rating="4.9">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
+    <Phone>877-444-6777</Phone>
     <Address NearestAirport="SGU">
       <Number>1</Number>
       <Street>Zion Park Blvd</Street>
@@ -51,9 +52,9 @@
       <State>UT</State>
       <Zip>84767</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-  <Hotel Rating="4.6">
+  <NationalPark>
     <Name>Rocky Mountain</Name>
     <Phone>970-586-1206</Phone>
     <Address NearestAirport="DEN">
@@ -63,9 +64,9 @@
       <State>CO</State>
       <Zip>80517</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-  <Hotel Rating="4.5">
+  <NationalPark Rating="4.5">
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
     <Address NearestAirport="BGR">
@@ -75,11 +76,12 @@
       <State>ME</State>
       <Zip>04609</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-  <Hotel Rating="4.8">
+  <NationalPark Rating="4.8">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
+    <Phone>800-365-2267</Phone>
     <Address NearestAirport="FCA">
       <Number>1</Number>
       <Street>Going-to-the-Sun Rd</Street>
@@ -87,9 +89,9 @@
       <State>MT</State>
       <Zip>59936</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-  <Hotel Rating="4.4">
+  <NationalPark>
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
     <Address NearestAirport="PSP">
@@ -99,9 +101,9 @@
       <State>CA</State>
       <Zip>92277</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-  <Hotel Rating="4.7">
+  <NationalPark Rating="4.7">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
     <Address NearestAirport="SEA">
@@ -111,9 +113,9 @@
       <State>WA</State>
       <Zip>98362</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-  <Hotel Rating="4.3">
+  <NationalPark Rating="4.3">
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
     <Address NearestAirport="CNY">
@@ -123,9 +125,9 @@
       <State>UT</State>
       <Zip>84532</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-  <Hotel Rating="4.6">
+  <NationalPark Rating="4.6">
     <Name>Great Smoky Mountains</Name>
     <Phone>865-436-1200</Phone>
     <Address NearestAirport="TYS">
@@ -135,6 +137,6 @@
       <State>TN</State>
       <Zip>37738</Zip>
     </Address>
-  </Hotel>
+  </NationalPark>
 
-</Hotels>
+</NationalParks>
