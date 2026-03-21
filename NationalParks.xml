@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="https://iialbadi.github.io/Assignment4/NationalParks.xsd">
+               xsi:schemaLocation="https://iialbadi.github.io/Assignment4/NationalParks.xsd">
+
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -14,6 +15,7 @@
       <Zip>86023</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
@@ -26,6 +28,7 @@
       <Zip>82190</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.7">
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
@@ -37,6 +40,7 @@
       <Zip>95389</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.9">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
@@ -49,6 +53,7 @@
       <Zip>84767</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark>
     <Name>Rocky Mountain</Name>
     <Phone>970-586-1206</Phone>
@@ -60,6 +65,7 @@
       <Zip>80517</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.5">
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
@@ -68,9 +74,10 @@
       <Street>McFarland Hill Dr</Street>
       <City>Bar Harbor</City>
       <State>ME</State>
-      <Zip>4609</Zip>
+      <Zip>04609</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.8">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
@@ -83,6 +90,7 @@
       <Zip>59936</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark>
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
@@ -94,6 +102,7 @@
       <Zip>92277</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.7">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
@@ -105,6 +114,7 @@
       <Zip>98362</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.3">
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
@@ -116,6 +126,7 @@
       <Zip>84532</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.6">
     <Name>Great Smoky Mountains</Name>
     <Phone>865-436-1200</Phone>
@@ -127,4 +138,5 @@
       <Zip>37738</Zip>
     </Address>
   </NationalPark>
+
 </NationalParks>
